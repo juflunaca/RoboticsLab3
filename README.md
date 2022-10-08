@@ -20,16 +20,13 @@ Inicialmente se definié la posición de mantenimiento, para esto se crea un *jo
 ## Simulación en Robot Studio
 A continuacion se puede ver un corto video con la simulacion en Robot Studio de los movimientos del manipulador para realizar la trayectoria de escritura en el tablero con las entradas y salidas digitales.
 
-<video width="320" height="240" controls>
-  <source src="./videos/VideoSimulacionL3.mp4" type="video/mp4">
+<video src="./videos/VideoSimulacionL3.mp4" type="video/mp4">
 </video>
 
 ## Implementación LABSIR
 Para la implementación de la práctica en el laboratorio LABSIR se carga el programa RAPID al ABB Flex Pendant por medio de una memoria USB, a continuación se definen las entradas haciendo uso del modulo *3HAC025917-001/00 DSQC 652* que está instalado en el controlador ABB IRC5 del laboratorio, luego se define el WorkObject según los datos del WorkObject de Robot Studio y finalmente se inicia la subrutina y se manipulan las entradas como se muestra en los siguientes videos:
 
-<video width="320" height="240" controls>
-  <source src="./Videos/VideoImplementacionL3-1.mp4" type="video/mp4">
+<video src="./Videos/VideoImplementacionL3-1.mp4" type="video/mp4">
 </video>
-<video width="320" height="240" controls>
-  <source src="./Videos/VideoImplementacionL3-2.mp4" type="video/mp4">
+<video src="./Videos/VideoImplementacionL3-2.mp4" type="video/mp4">
 </video>
