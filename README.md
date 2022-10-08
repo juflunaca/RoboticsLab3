@@ -29,10 +29,10 @@ https://user-images.githubusercontent.com/54786131/194689069-953dc3a0-1bff-4453-
 Para la implementación de la práctica en el laboratorio LABSIR se carga el programa RAPID al ABB Flex Pendant por medio de una memoria USB, a continuación se definen las entradas haciendo uso del modulo *3HAC025917-001/00 DSQC 652* que está instalado en el controlador ABB IRC5 del laboratorio, luego se define el WorkObject según los datos del WorkObject de Robot Studio y finalmente se inicia la subrutina y se manipulan las entradas como se muestra en los siguientes videos:
 
 <video src="https://github.com/juflunaca/RoboticsLab3/blob/main/Videos/VideoImplementacionL3-1.mp4" >
-</video>
-* https://user-images.githubusercontent.com/54786131/194689078-e94e00b5-895f-4c14-b644-3d7a030204de.mp4
+</video> 
+https://user-images.githubusercontent.com/54786131/194689078-e94e00b5-895f-4c14-b644-3d7a030204de.mp4
+<br>
 <video src="https://github.com/juflunaca/RoboticsLab3/blob/main/Videos/VideoImplementacionL3-2.mp4">
-</video>
-* https://user-images.githubusercontent.com/54786131/194689076-0a4c1c79-c019-4277-9ff6-5bff8dad81c1.mp4
+</video>* https://user-images.githubusercontent.com/54786131/194689076-0a4c1c79-c019-4277-9ff6-5bff8dad81c1.mp4
 
 
